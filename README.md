@@ -22,6 +22,7 @@ DonkeyCarシミュレータと実機ハードウェアを活用し、映像処�
 
 ## 📂 ディレクトリ構成
 
+```
 autonomous-car-ai/ 
 ├── arduino/ # Arduinoコード（DCモーター制御） 
 ├── python/ # Pythonスクリプト（学習、制御） 
@@ -29,7 +30,7 @@ autonomous-car-ai/
 ├── media/ # デモ映像、シミュレーション画像 
 ├── docs/ # 企画書、画面設計書など 
 └── README.md
-
+```
 
 
 ## 🎥 デモ映像・シミュレーション
@@ -73,8 +74,12 @@ DonkeyCar 시뮬레이터와 실제 하드웨어를 활용해 영상 처리, 모
 
 ## 📂 디렉토리 구조 예시
 
-- `arduino/`: 아두이노 코드
-- `python/`: 파이썬 코드 (학습, 제어)
-- `model/`: 학습된 모델 파일
-- `media/`: 주행 영상, 결과 이미지
-- `docs/`: 기획서 및 발표자료
+```
+autonomous-car-ai/
+├── arduino/ # 아두이노 코드
+├── python/ # 파이썬 코드 (학습, 제어)
+├── model/ # 학습된 모델 파일
+├── media/ # 주행 영상, 결과 이미지
+├── docs/ # 기획서 및 발표자료
+└── README.md
+```
